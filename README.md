@@ -2,7 +2,7 @@
 
 To do list
 
-## Getting Started
+## Sobre
 
 Projeto em flutter de uma lista de tarefas com as seguintes funções:
 -Adicionar ou remover tarefas.
