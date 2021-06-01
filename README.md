@@ -4,9 +4,9 @@ To do list
 
 ## Sobre
 
-Projeto em flutter de uma lista de tarefas com as seguintes funções:
+<p>Projeto em flutter de uma lista de tarefas com as seguintes funções:
 -Adicionar ou remover tarefas.
 -Marcar como concluida.
 -Recuperar tarefa excluida.
 -Organizar por feitas e não feitas.
--Salvamento automatico.
+-Salvamento automatico.<p/>
