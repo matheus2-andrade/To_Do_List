@@ -9,4 +9,4 @@ To do list
 -Marcar como concluida.
 -Recuperar tarefa excluida.
 -Organizar por feitas e não feitas.
--Salvamento automatico.<p/>
+-Salvamento automatico.</p>
